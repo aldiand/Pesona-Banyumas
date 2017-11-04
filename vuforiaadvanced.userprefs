@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{DFF2E9C1-DB1D-74E9-0FC3-531F665FCD1D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Common/SplashAbout/AsyncSceneLoader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NextImageVirtualButton.cs">
     <Files>
-      <File FileName="Assets/Common/SplashAbout/AsyncSceneLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ImageGallery.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/PrevImageVirtualButton.cs" Line="27" Column="48" />
+      <File FileName="Assets/Scripts/NextImageVirtualButton.cs" Line="8" Column="46" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
