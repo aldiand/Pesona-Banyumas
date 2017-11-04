@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="BATURRADENremake" size="0.050000 0.079939" />
+    <ImageTarget name="DREAMLAND" size="1.000000 1.598985" />
+    <ImageTarget name="BATURRADEN" size="1.000000 1.598985" />
     <ImageTarget name="cover" size="3.000000 4.786517" />
   </Tracking>
 </QCARConfig>
